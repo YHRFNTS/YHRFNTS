@@ -25,5 +25,5 @@ Soy un desarrollador enfocado en crear soluciones eficientes y escalables con ex
     * *Descripción breve (ej. Sitio web de comercio electrónico).*
 
 ### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahir-fuentes-martínez-a01032370)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yahir-fuentes-martínez)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yahirfuentes2006@gmail.com)
