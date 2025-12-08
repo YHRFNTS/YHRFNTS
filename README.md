@@ -20,9 +20,9 @@ Soy un desarrollador enfocado en crear soluciones eficientes y escalables con ex
 
 ### 🌟 Proyectos Destacados
 1.  **[Proyecto Integrador 1](https://github.com/YHRFNTS/Proyecto_Integrador1)**
-    * *Descripción breve (ej. Sistema de gestión escolar).*
+    * *Sistema de Gestión de Enfermería Escolar.*
 2.  **[Repostería Zulimar](https://github.com/YHRFNTS/Reposteria_Zulimar)**
-    * *Descripción breve (ej. Sitio web de comercio electrónico).*
+    * *Sitio web de comercio electrónico.*
 
 ### 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahir-fuentes-martínez)
