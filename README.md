@@ -58,11 +58,6 @@ Soy un desarrollador enfocado en crear soluciones eficientes y escalables con ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
 </div>
 
-#### 🖲️ Escritorio
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" alt="JavaFX" width="50" height="50"/>
-</div>
-
 #### 🛠️ Herramientas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
