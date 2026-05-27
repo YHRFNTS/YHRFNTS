@@ -33,7 +33,7 @@ Soy un desarrollador enfocado en crear soluciones eficientes y escalables con ex
 #### 🔧 Backend
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
 </div>
@@ -69,37 +69,6 @@ Soy un desarrollador enfocado en crear soluciones eficientes y escalables con ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 </div>
-
-### 📚 Otros Proyectos
-
-**Sistemas de Gestión:**
-- [Sistema de Películas](https://github.com/YHRFNTS/SistemaPeliculas) - Java
-- [Sistema de Productos](https://github.com/YHRFNTS/SistemaProductos) - Java
-- [Sistema de Usuarios](https://github.com/YHRFNTS/SistemaUsuarios) - Java
-- [ElectroStock](https://github.com/YHRFNTS/ElectroStock) - Java
-
-**Aplicaciones Web:**
-- [Calculadora Spring Boot](https://github.com/YHRFNTS/Calculadora_SpringBoot) - JavaScript, SpringBoot
-- [Implementación de Servicios](https://github.com/YHRFNTS/Implementacion_Servicios) - JavaScript
-- [Examen Web UI-IV](https://github.com/YHRFNTS/Examen_Web_UIV) - Java
-- [Examen Aplicaciones Web UI-II](https://github.com/YHRFNTS/Examen_AplicacionesWeb_UII) - HTML, CSS
-- [Prueba Laravel](https://github.com/YHRFNTS/Prueba_Laravel) - Laravel
-
-**Proyectos de Aprendizaje:**
-- [Calculadora](https://github.com/YHRFNTS/Calculadora) - Java
-- [Página Web Personal](https://github.com/YHRFNTS/PaginaWeb) - HTML, CSS
-- [Contactos](https://github.com/YHRFNTS/Contactos) - CSS
-- [LocalStorage](https://github.com/YHRFNTS/LocalStorage) - HTML, CSS, JavaScript
-- [Enlaces](https://github.com/YHRFNTS/Enlaces) - HTML
-- [Prueba Spring](https://github.com/YHRFNTS/Prueba_Spring) - Java, SpringBoot
-- [Hackathon](https://github.com/YHRFNTS/Hackathon) - CSS
-
-**Otros:**
-- [Mapaches Cicladores](https://github.com/YHRFNTS/mapachescicladores)
-- [Regalo Navidad](https://github.com/YHRFNTS/Regalo_Navidad)
-- [AltaFidelidad](https://github.com/YHRFNTS/AltaFidelidad)
-- [Búsquedas Backend](https://github.com/YHRFNTS/busquedas-back)
-- [Búsquedas Frontend](https://github.com/YHRFNTS/busquedas-front)
 
 ### 📫 Contacto
 
