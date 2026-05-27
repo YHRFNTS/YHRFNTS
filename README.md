@@ -18,69 +18,81 @@ Soy un desarrollador enfocado en crear soluciones eficientes y escalables con ex
 
 1. **[Proyecto Integrador 1](https://github.com/YHRFNTS/Proyecto_Integrador1)**
    * Sistema de Gestión de Enfermería Escolar
-   * ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+   * *Java, JavaFX, Base de datos*
 
 2. **[Repostería Zulimar](https://github.com/YHRFNTS/Reposteria_Zulimar)**
    * Sitio web de comercio electrónico
-   * ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34C26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+   * *PHP, HTML, CSS, MySQL*
 
 3. **[SIGES Mobile](https://github.com/YHRFNTS/siges-mobile)**
    * Aplicación móvil con Jetpack Compose
-   * ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=flat-square&logo=jetpackcompose&logoColor=white)
+   * *Kotlin, Android, Jetpack Compose*
 
 ### 💼 Tecnologías
 
 #### 🔧 Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+</div>
 
 #### 📱 Móvil
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="50" height="50"/>
+</div>
 
 #### 🖥️ Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+</div>
 
 #### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+</div>
 
 #### 🖲️ Escritorio
-![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" alt="JavaFX" width="50" height="50"/>
+</div>
 
 #### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+</div>
 
 ### 📚 Otros Proyectos
 
 **Sistemas de Gestión:**
-- [Sistema de Películas](https://github.com/YHRFNTS/SistemaPeliculas) - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-- [Sistema de Productos](https://github.com/YHRFNTS/SistemaProductos) - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-- [Sistema de Usuarios](https://github.com/YHRFNTS/SistemaUsuarios) - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-- [ElectroStock](https://github.com/YHRFNTS/ElectroStock) - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+- [Sistema de Películas](https://github.com/YHRFNTS/SistemaPeliculas) - Java
+- [Sistema de Productos](https://github.com/YHRFNTS/SistemaProductos) - Java
+- [Sistema de Usuarios](https://github.com/YHRFNTS/SistemaUsuarios) - Java
+- [ElectroStock](https://github.com/YHRFNTS/ElectroStock) - Java
 
 **Aplicaciones Web:**
-- [Calculadora Spring Boot](https://github.com/YHRFNTS/Calculadora_SpringBoot) - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-- [Implementación de Servicios](https://github.com/YHRFNTS/Implementacion_Servicios) - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-- [Examen Web UI-IV](https://github.com/YHRFNTS/Examen_Web_UIV) - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-- [Examen Aplicaciones Web UI-II](https://github.com/YHRFNTS/Examen_AplicacionesWeb_UII) - ![HTML5](https://img.shields.io/badge/HTML5-%23E34C26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-- [Prueba Laravel](https://github.com/YHRFNTS/Prueba_Laravel) - ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+- [Calculadora Spring Boot](https://github.com/YHRFNTS/Calculadora_SpringBoot) - JavaScript, SpringBoot
+- [Implementación de Servicios](https://github.com/YHRFNTS/Implementacion_Servicios) - JavaScript
+- [Examen Web UI-IV](https://github.com/YHRFNTS/Examen_Web_UIV) - Java
+- [Examen Aplicaciones Web UI-II](https://github.com/YHRFNTS/Examen_AplicacionesWeb_UII) - HTML, CSS
+- [Prueba Laravel](https://github.com/YHRFNTS/Prueba_Laravel) - Laravel
 
 **Proyectos de Aprendizaje:**
-- [Calculadora](https://github.com/YHRFNTS/Calculadora) - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-- [Página Web Personal](https://github.com/YHRFNTS/PaginaWeb) - ![HTML5](https://img.shields.io/badge/HTML5-%23E34C26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-- [Contactos](https://github.com/YHRFNTS/Contactos) - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-- [LocalStorage](https://github.com/YHRFNTS/LocalStorage) - ![HTML5](https://img.shields.io/badge/HTML5-%23E34C26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-- [Enlaces](https://github.com/YHRFNTS/Enlaces) - ![HTML5](https://img.shields.io/badge/HTML5-%23E34C26.svg?style=flat&logo=html5&logoColor=white)
-- [Prueba Spring](https://github.com/YHRFNTS/Prueba_Spring) - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-- [Hackathon](https://github.com/YHRFNTS/Hackathon) - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+- [Calculadora](https://github.com/YHRFNTS/Calculadora) - Java
+- [Página Web Personal](https://github.com/YHRFNTS/PaginaWeb) - HTML, CSS
+- [Contactos](https://github.com/YHRFNTS/Contactos) - CSS
+- [LocalStorage](https://github.com/YHRFNTS/LocalStorage) - HTML, CSS, JavaScript
+- [Enlaces](https://github.com/YHRFNTS/Enlaces) - HTML
+- [Prueba Spring](https://github.com/YHRFNTS/Prueba_Spring) - Java, SpringBoot
+- [Hackathon](https://github.com/YHRFNTS/Hackathon) - CSS
 
 **Otros:**
 - [Mapaches Cicladores](https://github.com/YHRFNTS/mapachescicladores)
@@ -91,9 +103,9 @@ Soy un desarrollador enfocado en crear soluciones eficientes y escalables con ex
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahir-fuentes-martínez)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahirfuentes2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YHRFNTS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahir-fuentes-martínez)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yahirfuentes2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/YHRFNTS)
 
 ---
 
